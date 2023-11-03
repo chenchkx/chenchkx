@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently a Ph.D. student in the College of Computer Science and Technology at Zhejiang University, supervised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong). Before 2020, I received my M.S. degree from Jiangnan University in June 2019, supervised by Prof. [Xiao-Jun Wu](https://ai.jiangnan.edu.cn/info/1013/1500.htm) and co-supervised by Prof. [Josef Kittler](https://www.surrey.ac.uk/people/josef-kittler). I received my B.E. degree from the Jiangsu University of Science and Technology in June 2016. From 2019 to 2020, I worked as an image processing engineer at a leading technology company located in Hangzhou, China. More details can be found [here](https://chenchkx.github.io/).
+- 🔭 I am currently a Ph.D. student in the College of Computer Science and Technology at Zhejiang University, supervised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong). Before 2020, I received my M.S. degree from Jiangnan University, supervised by Prof. [Xiao-Jun Wu](https://ai.jiangnan.edu.cn/info/1013/1500.htm) and co-supervised by Prof. [Josef Kittler](https://www.surrey.ac.uk/people/josef-kittler). I received my B.E. degree from the Jiangsu University of Science and Technology. More details can be found [here](https://chenchkx.github.io/).
 
 - 📫 How to reach me: chenkx@zju.edu.cn or chenkx.jsh@aliyun.com
 <!--
